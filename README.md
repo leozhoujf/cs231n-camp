@@ -7,6 +7,20 @@
 [课程视频](https://www.bilibili.com/video/av17204303/)
 [作业链接](https://github.com/sharedeeply/cs231n-assignment)
 [环境配置](https://github.com/sharedeeply/DeepLearning-StartKit)
+[作业参考](https://github.com/sharedeeply/cs231n-assignment)
+[AWS 云服务器配置](https://github.com/L1aoXingyu/code-of-learn-deep-learning-with-pytorch/blob/master/aws.md) 
+**注: 云服务器并不是强制要求的，而且国外的服务器会比较卡，考虑到阿里云等国内的服务器比较贵，所以推荐大家使用本地的电脑**
+
+
+
+#### 🔥🔥一些重要的资源：
+
+1. [廖雪峰python3教程](https://www.liaoxuefeng.com/article/001432619295115c918a094d8954bd493037b03d27bf9a9000)
+2. [深度学习的学习路线](https://github.com/L1aoXingyu/Roadmap-of-DL-and-ML/blob/master/README_cn.md)和[开源深度学习课程](http://www.deeplearningweekly.com/blog/open-source-deep-learning-curriculum/)
+3. [mxnet/gluon 教程](https://zh.gluon.ai/)
+4. [我的知乎专栏](https://zhuanlan.zhihu.com/c_94953554)和[pytorch教程](https://github.com/L1aoXingyu/code-of-learn-deep-learning-with-pytorch)
+5. [官方pytorch教程](https://pytorch.org/tutorials/)和一个比较好的[教程](https://github.com/yunjey/pytorch-tutorial)
+6. [tensorflow教程](https://github.com/aymericdamien/TensorFlow-Examples)
 
 上面是本次训练营经常需要用到的网页，所以顶置便于大家查询
 
@@ -21,22 +35,22 @@
 
 ## 学习安排
 ### Week 1
-1. 计算机视觉综述  
+1. 计算机视觉综述
 **slides:** [lecture01](http://cs231n.stanford.edu/slides/2018/cs231n_2018_lecture01.pdf)
 - 观看视频 p1 和 p2 热身，了解计算机视觉概述以及历史背景
 - 观看 p3 了解整门课程的大纲
 
-2. 学习数据驱动的方法和 KNN 算法和线性分类器上  
+2. 学习数据驱动的方法和 KNN 算法和线性分类器上
 **slides:** [lecture02](http://cs231n.stanford.edu/slides/2018/cs231n_2018_lecture02.pdf) 
 - 观看视频 p4 p5 和 p6
 - 学习 [图像分类笔记上下](https://zhuanlan.zhihu.com/p/20894041?refer=intelligentunit) 和 [线性分类笔记上](https://zhuanlan.zhihu.com/p/20918580?refer=intelligentunit)
 
 **作业:**   
-1. [阅读 python 和 numpy 教程](https://zhuanlan.zhihu.com/p/20878530?refer=intelligentunit), 写一个矩阵的类，实现矩阵乘法，只能使用 python 的类(class)和列表(list), 代码截图提交
+1. [阅读 python 和 numpy 教程](https://zhuanlan.zhihu.com/p/20878530?refer=intelligentunit)和[代码](https://github.com/sharedeeply/cs231n-camp/blob/master/python_tutorial/python_numpy_tutorial.ipynb)写一个矩阵的类，实现矩阵乘法，只能使用 python 的类(class)和列表(list), 代码截图提交
 2. 完成assignment1 中的 knn.ipynb, 最后的效果截图上传
 
 ### Week2
-1. 学习线性分类器中下, 损失函数和优化器  
+1. 学习线性分类器中下, 损失函数和优化器 
 **slides:** [lecture03](http://cs231n.stanford.edu/slides/2018/cs231n_2018_lecture03.pdf)
 - 观看视频 p7 和 p8
 - 学习[线性分类笔记中下](https://zhuanlan.zhihu.com/p/20945670?refer=intelligentunit) 和[最优化笔记](https://zhuanlan.zhihu.com/p/21360434?refer=intelligentunit)
@@ -48,5 +62,5 @@
 
 
 ### Week3
-1. 学习神经网络  
+1. 学习神经网络 
 **slides:** [lecture04](http://cs231n.stanford.edu/slides/2018/cs231n_2018_lecture04.pdf)
