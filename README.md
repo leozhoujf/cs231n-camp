@@ -15,11 +15,12 @@
 #### 🔥🔥一些重要的资源：
 
 1. [廖雪峰python3教程](https://www.liaoxuefeng.com/article/001432619295115c918a094d8954bd493037b03d27bf9a9000)
-2. [深度学习的学习路线](https://github.com/L1aoXingyu/Roadmap-of-DL-and-ML/blob/master/README_cn.md)和[开源深度学习课程](http://www.deeplearningweekly.com/blog/open-source-deep-learning-curriculum/)
-3. [mxnet/gluon 教程](https://zh.gluon.ai/)
-4. [我的知乎专栏](https://zhuanlan.zhihu.com/c_94953554)和[pytorch教程](https://github.com/L1aoXingyu/code-of-learn-deep-learning-with-pytorch)
-5. [官方pytorch教程](https://pytorch.org/tutorials/)和一个比较好的[教程](https://github.com/yunjey/pytorch-tutorial)
-6. [tensorflow教程](https://github.com/aymericdamien/TensorFlow-Examples)
+2. [github教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+3. [深度学习的学习路线](https://github.com/L1aoXingyu/Roadmap-of-DL-and-ML/blob/master/README_cn.md)和[开源深度学习课程](http://www.deeplearningweekly.com/blog/open-source-deep-learning-curriculum/)
+4. [mxnet/gluon 教程](https://zh.gluon.ai/)
+5. [我的知乎专栏](https://zhuanlan.zhihu.com/c_94953554)和[pytorch教程](https://github.com/L1aoXingyu/code-of-learn-deep-learning-with-pytorch)
+6. [官方pytorch教程](https://pytorch.org/tutorials/)和一个比较好的[教程](https://github.com/yunjey/pytorch-tutorial)
+7. [tensorflow教程](https://github.com/aymericdamien/TensorFlow-Examples)
 
 上面是本次训练营经常需要用到的网页，所以顶置便于大家查询
 
@@ -84,7 +85,7 @@
 1. 修改模板代码中的网络结构，提交kaggle成绩，截图
 
 
-### Week5
+### Week6
 1. 卷积神经网络
 **slides:** [lecture05](http://cs231n.stanford.edu/slides/2018/cs231n_2018_lecture05.pdf)
 
