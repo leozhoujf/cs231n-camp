@@ -46,7 +46,7 @@
 - 学习 [图像分类笔记上下](https://zhuanlan.zhihu.com/p/20894041?refer=intelligentunit) 和 [线性分类笔记上](https://zhuanlan.zhihu.com/p/20918580?refer=intelligentunit)
 
 **作业:**   
-1. [阅读 python 和 numpy 教程](https://zhuanlan.zhihu.com/p/20878530?refer=intelligentunit)和[代码](https://github.com/sharedeeply/cs231n-camp/blob/master/python_tutorial/python_numpy_tutorial.ipynb)写一个矩阵的类，实现矩阵乘法，只能使用 python 的类(class)和列表(list), 代码截图提交
+1. [阅读 python 和 numpy 教程](https://zhuanlan.zhihu.com/p/20878530?refer=intelligentunit)和[代码](https://github.com/sharedeeply/cs231n-camp/blob/master/tutorial/python_numpy_tutorial.ipynb)写一个矩阵的类，实现矩阵乘法，只能使用 python 的类(class)和列表(list), 代码截图提交
 2. 完成assignment1 中的 `knn.ipynb`
 
 
@@ -73,24 +73,49 @@
 
 **作业:**  
 1. 理解推导反向传播算法，截图打卡
+2. 完成 assignment1 中的 `softmax.ipynb`
 
 ### Week4
-1. 完成 assignment1 中 `softmax.ipynb`, `two_layer_net.ipynb` 和 `features.ipynb`
-作业量比较大，希望大家坚持完成
+1. 学习 [pytorch基础](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html) 
+
+2. 了解 kaggle 比赛[房价预测](https://www.kaggle.com/c/house-prices-advanced-regression-techniques), 并学习[模板代码]()
+
+**作业:**  
+1. 完成 assignment1 中 `two_layer_net.ipynb` 和 `features.ipynb`
+2. 修改房价预测的代码，并提交kaggle查看得分
+
 
 ### Week5
-1. 学习完成第一个 Kaggle 比赛，[rossmann store sales](https://www.kaggle.com/c/cs3244-rossmann-store-sales)
+1. 卷积神经网络初步
+**slides:** [lecture05](http://cs231n.stanford.edu/slides/2018/cs231n_2018_lecture05.pdf)
 
-**作业:**
-1. 修改模板代码中的网络结构，提交kaggle成绩，截图
+- 观看视频 p11, p12 和 p13
+- 学习[卷积神经网络笔记](https://zhuanlan.zhihu.com/p/22038289?refer=intelligentunit)
+
+**作业:**  
+1. 完成 assignment2 中 `FullyConnectedNets.ipynb`
 
 
 ### Week6
-1. 卷积神经网络
-**slides:** [lecture05](http://cs231n.stanford.edu/slides/2018/cs231n_2018_lecture05.pdf)
+1. 如何更好的训练网络(上)  
+**slides:** [lecture06](http://cs231n.stanford.edu/slides/2018/cs231n_2018_lecture06.pdf)
 
-- 观看视频 p11 和 p12
-- 学习[卷积神经网络笔记](https://zhuanlan.zhihu.com/p/22038289?refer=intelligentunit)
+- 观看视频 p14, p15
+- 学习[神经网络笔记1](https://zhuanlan.zhihu.com/p/21462488?refer=intelligentunit)和[神经网络笔记2](https://zhuanlan.zhihu.com/p/21560667?refer=intelligentunit)
+
+### Week7
+1. 如何更好的训练网络(下)  
+**slides:** [lecture07](http://cs231n.stanford.edu/slides/2018/cs231n_2018_lecture07.pdf)
+
+- 观看视频 p16, p17 和 p18
+- 学习[神经网络笔记3](https://zhuanlan.zhihu.com/p/21741716?refer=intelligentunit)
 
 
+### Week8
+1. 深度学习框架  
+**slides:**  [lecture08](http://cs231n.stanford.edu/slides/2018/cs231n_2018_lecture08.pdf)
 
+- 观看视频 p19
+
+**作业:**  
+1. 完成
