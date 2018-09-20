@@ -46,7 +46,7 @@
 - 学习 [图像分类笔记上下](https://zhuanlan.zhihu.com/p/20894041?refer=intelligentunit) 和 [线性分类笔记上](https://zhuanlan.zhihu.com/p/20918580?refer=intelligentunit)
 
 **作业:**   
-1. [阅读 python 和 numpy 教程](https://zhuanlan.zhihu.com/p/20878530?refer=intelligentunit)和[代码](https://github.com/sharedeeply/cs231n-camp/blob/master/tutorial/python_numpy_tutorial.ipynb)写一个矩阵的类，实现矩阵乘法，只能使用 python 的类(class)和列表(list), 代码截图提交
+1. [阅读 python 和 numpy 教程](https://zhuanlan.zhihu.com/p/20878530?refer=intelligentunit)和[代码](https://github.com/sharedeeply/cs231n-camp/blob/master/tutorial/python_numpy_tutorial.ipynb)写一个矩阵的类，实现矩阵乘法，只能使用 python 的类(class)和列表(list)
 2. 完成assignment1 中的 `knn.ipynb`
 
 
@@ -58,8 +58,7 @@
 - 学习[线性分类笔记中下](https://zhuanlan.zhihu.com/p/20945670?refer=intelligentunit) 和[最优化笔记](https://zhuanlan.zhihu.com/p/21360434?refer=intelligentunit)
 
 **作业:**
-1. 简述knn和线性分类器的优劣，文字上传
-
+1. 简述knn和线性分类器的优劣
 2. 完成assignment1 中 `svm.ipynb` 
 
 
@@ -72,12 +71,11 @@
 可选项：[反向传播算法的博客](http://colah.github.io/posts/2015-08-Backprop/)
 
 **作业:**  
-1. 理解推导反向传播算法，截图打卡
+1. 理解并推导反向传播算法
 2. 完成 assignment1 中的 `softmax.ipynb`
 
 ### Week4
 1. 学习 [pytorch基础](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html) 
-
 2. 了解 kaggle 比赛[房价预测](https://www.kaggle.com/c/house-prices-advanced-regression-techniques), 并学习[模板代码]()
 
 **作业:**  
@@ -94,7 +92,7 @@
 
 **作业:**  
 1. 完成 assignment2 中 `FullyConnectedNets.ipynb`
-
+2. 思考一下卷积神经网络对比传统神经网络的优势在哪里？为什么更适合处理图像问题
 
 ### Week6
 1. 如何更好的训练网络(上)  
@@ -103,6 +101,11 @@
 - 观看视频 p14, p15
 - 学习[神经网络笔记1](https://zhuanlan.zhihu.com/p/21462488?refer=intelligentunit)和[神经网络笔记2](https://zhuanlan.zhihu.com/p/21560667?refer=intelligentunit)
 
+**作业:**  
+1. 完成 assignment2 中 `BatchNormalization.ipynb` 和 `Dropout.ipynb`
+2. 深入理解batchnorm为什么有用，了解深度学习中的其他normalize方法，可以通过知乎或者论文，写一个总结上传
+
+
 ### Week7
 1. 如何更好的训练网络(下)  
 **slides:** [lecture07](http://cs231n.stanford.edu/slides/2018/cs231n_2018_lecture07.pdf)
@@ -110,12 +113,55 @@
 - 观看视频 p16, p17 和 p18
 - 学习[神经网络笔记3](https://zhuanlan.zhihu.com/p/21741716?refer=intelligentunit)
 
+**作业:**  
+1. 完成 assignment2 中 `ConvolutionNetworks.ipynb` 和 PyTorch CIFAR10 `PyTorch.ipynb`
+2. 总结训练训练神经网络中的一些 tricks
+
 
 ### Week8
-1. 深度学习框架  
-**slides:**  [lecture08](http://cs231n.stanford.edu/slides/2018/cs231n_2018_lecture08.pdf)
+1. 深度学习框架介绍 
+**slides:** [lecture08](http://cs231n.stanford.edu/slides/2018/cs231n_2018_lecture08.pdf)
 
 - 观看视频 p19
 
+2. 经典的网络结构结构
+**slides:** [lecture09](http://cs231n.stanford.edu/slides/2018/cs231n_2018_lecture09.pdf)
+
+- 观看视频 p20
+
 **作业:**  
-1. 完成
+1. 根据前面学的知识，完成kaggle上面[cifar10](https://www.kaggle.com/c/cifar-10/)的比赛
+
+
+### Week9
+1. 循环神经网络与语言模型
+**slides:** [lecture10](http://cs231n.stanford.edu/slides/2018/cs231n_2018_lecture10.pdf)
+
+- 观看视频 p21, p22 和 p23
+
+**作业:**  
+1. 完成 assignment3 中的 `RNN_Captioning.ipynb` 和 `LSTM_Captioning.ipynb` 
+2. 根据[blog](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)更进一步了解RNN，写出 LSTM 和 GRU 的公式
+
+### Week10
+1. 检测与分割
+**slides:** [lecture11](http://cs231n.stanford.edu/slides/2018/cs231n_2018_lecture11.pdf)
+
+-观看视频 p24，p25 和 p26
+
+**作业:**  
+1. 学习 SSD 的模板代码，训练一个 SSD 的 model
+
+
+### Week11
+1. 生成对抗网络
+**slides:**  [lecture12](http://cs231n.stanford.edu/slides/2018/cs231n_2018_lecture12.pdf)
+
+2. 视觉理解
+**slides:** [lecture13]()
+
+**作业:**  
+
+
+### Week12
+1. 深度强化学习
