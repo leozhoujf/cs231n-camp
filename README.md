@@ -50,16 +50,16 @@
 2. 完成assignment1 中的 `knn.ipynb`
 
 
-
 ### Week2
-1. 学习线性分类器[中下], 损失函数和优化器  
+1. 学习线性分类器[中 下], 损失函数和优化器  
    **slides:** [lecture03](http://cs231n.stanford.edu/slides/2018/cs231n_2018_lecture03.pdf)
-- 观看视频 p7 和 p8
-- 学习[线性分类笔记中下](https://zhuanlan.zhihu.com/p/20945670?refer=intelligentunit) 和[最优化笔记](https://zhuanlan.zhihu.com/p/21360434?refer=intelligentunit)
+- 观看视频 p7 和 p8，了解更多关于线性分类器，损失函数以及优化器的相关知识
+- 学习[线性分类笔记中下](https://zhuanln.zhihu.com/p/20945670?refer=intelligentunit)和[最优化笔记](https://zhuanlan.zhihu.com/p/21360434?refer=intelligentunit)，了解 SVM 和梯度下降法
 
 **作业:**
-1. 简述knn和线性分类器的优劣
-2. 完成assignment1 中 `svm.ipynb` 
+1. 简述 KNN 和线性分类器的优劣
+2. (可选)学习[矩阵求导](https://zhuanlan.zhihu.com/p/25063314)的方法
+2. 完成assignment1 中 `svm.ipynb`
 
 
 ### Week3
@@ -87,7 +87,7 @@
 1. 卷积神经网络初步
 **slides:** [lecture05](http://cs231n.stanford.edu/slides/2018/cs231n_2018_lecture05.pdf)
 
-- 观看视频 p11, p12 和 p13
+- 观看视频 p11, p12 和 p13，学习 CNN 中的卷积层和池化层
 - 学习[卷积神经网络笔记](https://zhuanlan.zhihu.com/p/22038289?refer=intelligentunit)
 
 **作业:**  
@@ -98,70 +98,83 @@
 1. 如何更好的训练网络(上)  
 **slides:** [lecture06](http://cs231n.stanford.edu/slides/2018/cs231n_2018_lecture06.pdf)
 
-- 观看视频 p14, p15
+- 观看视频 p14, p15，学习训练神经网络中的激活函数，初始化和正则化方法
 - 学习[神经网络笔记1](https://zhuanlan.zhihu.com/p/21462488?refer=intelligentunit)和[神经网络笔记2](https://zhuanlan.zhihu.com/p/21560667?refer=intelligentunit)
 
 **作业:**  
 1. 完成 assignment2 中 `BatchNormalization.ipynb` 和 `Dropout.ipynb`
-2. 深入理解batchnorm为什么有用，了解深度学习中的其他normalize方法，可以通过知乎或者论文，写一个总结上传
+2. 深入理解 batchnorm 为什么有用，了解深度学习中的其他 normalize 方法，可以通过知乎或者论文，写一个总结上传
 
 
 ### Week7
 1. 如何更好的训练网络(下)  
 **slides:** [lecture07](http://cs231n.stanford.edu/slides/2018/cs231n_2018_lecture07.pdf)
 
-- 观看视频 p16, p17 和 p18
+- 观看视频 p16, p17 和 p18, 了解训练神经网络中更多的标准化方法以及更多的学习率更新策略
 - 学习[神经网络笔记3](https://zhuanlan.zhihu.com/p/21741716?refer=intelligentunit)
 
 **作业:**  
 1. 完成 assignment2 中 `ConvolutionNetworks.ipynb` 和 PyTorch CIFAR10 `PyTorch.ipynb`
-2. 总结训练训练神经网络中的一些 tricks
-
+2. 学习深度学习中各种优化算法的[总结](https://zhuanlan.zhihu.com/p/22252270)
+3. 总结训练训练神经网络中的一些 tricks
 
 ### Week8
-1. 深度学习框架介绍 
+1. 深度学习框架介绍   
 **slides:** [lecture08](http://cs231n.stanford.edu/slides/2018/cs231n_2018_lecture08.pdf)
 
-- 观看视频 p19
+- 观看视频 p19，了解深度学习的主流框架
 
-2. 经典的网络结构结构
+2. 经典的网络结构结构  
 **slides:** [lecture09](http://cs231n.stanford.edu/slides/2018/cs231n_2018_lecture09.pdf)
 
-- 观看视频 p20
+- 观看视频 p20，了解目前计算机视觉 state of the art 的网络结构
 
 **作业:**  
-1. 根据前面学的知识，完成kaggle上面[cifar10](https://www.kaggle.com/c/cifar-10/)的比赛
+1. 根据前面学的知识，完成kaggle上面[种子分类](https://www.kaggle.com/c/plant-seedlings-classification)的比赛，并提交成绩
 
 
 ### Week9
-1. 循环神经网络与语言模型
+1. 循环神经网络与语言模型  
 **slides:** [lecture10](http://cs231n.stanford.edu/slides/2018/cs231n_2018_lecture10.pdf)
 
-- 观看视频 p21, p22 和 p23
+- 观看视频 p21, p22 和 p23，了解循环神经网络，LSTM以及图片文字生成的方法
 
 **作业:**  
 1. 完成 assignment3 中的 `RNN_Captioning.ipynb` 和 `LSTM_Captioning.ipynb` 
 2. 根据[blog](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)更进一步了解RNN，写出 LSTM 和 GRU 的公式
 
 ### Week10
-1. 检测与分割
+1. 检测与分割  
 **slides:** [lecture11](http://cs231n.stanford.edu/slides/2018/cs231n_2018_lecture11.pdf)
 
--观看视频 p24，p25 和 p26
+- 观看视频 p24，p25 和 p26，了解检测和分割的任务介绍  
+- 阅读 [SSD](https://arxiv.org/abs/1512.02325) 和 [Faster RCNN](https://arxiv.org/abs/1506.01497) 的论文
 
 **作业:**  
-1. 学习 SSD 的模板代码，训练一个 SSD 的 model
-
+1. 学习 SSD 的模板代码，自己训练一个检测模型
+2. 学习 FCN 的模板代码，自己训练一个分割模型
 
 ### Week11
-1. 生成对抗网络
+1. 生成对抗网络  
 **slides:**  [lecture12](http://cs231n.stanford.edu/slides/2018/cs231n_2018_lecture12.pdf)
 
-2. 视觉理解
-**slides:** [lecture13]()
+- 观看视频 p29，p30 和 p31，了解变分自动编码器和生成对抗网络
+
+2. 卷积的可视化理解  
+**slides:** [lecture13](http://cs231n.stanford.edu/slides/2018/cs231n_2018_lecture13.pdf)
+
+- 观看视频 p27 和 p28，探索卷积网络背后的原理，学习 deep dream 和 style transfer 等有趣的应用
 
 **作业:**  
+1. 完成 assignment3 中的 `GANs-PyTorch.ipynb`
+2. 完成 assignment3 中的 `NetworkVisualization-PyTorch.ipynb` 和 `StyleTransfer-PyTorch.ipynb`
 
 
 ### Week12
 1. 深度强化学习
+**slides:** [lecture14](http://cs231n.stanford.edu/slides/2018/cs231n_2018_lecture14.pdf)
+
+- 观看视频 p32 和 p33，了解深度强化学习中的 q-learning 和 actor-critic 算法
+
+**作业:**  
+1. 学习使用 Deep Q-Network 玩 cartpole 的游戏
