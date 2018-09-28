@@ -6,8 +6,8 @@
 3. [中文笔记](https://zhuanlan.zhihu.com/p/21930884)  
 4. [课程视频](https://www.bilibili.com/video/av17204303/)  
 5. [环境配置](https://github.com/sharedeeply/DeepLearning-StartKit)  
-6. [作业链接](https://github.com/sharedeeply/cs231n-assignment)  
-7. [作业参考](https://github.com/sharedeeply/cs231n-assignment)  
+6. [作业链接](https://github.com/sharedeeply/cs231n-camp/tree/master/assignment/assignment1)  
+7. [作业参考](https://github.com/sharedeeply/cs231n-camp/tree/master/solution)  
 8. [AWS 云服务器配置](https://github.com/L1aoXingyu/code-of-learn-deep-learning-with-pytorch/blob/master/aws.md)   
 **注: 云服务器并不是强制要求的，而且国外的服务器会比较卡，考虑到阿里云等国内的服务器比较贵，所以推荐大家使用本地的电脑**
 
