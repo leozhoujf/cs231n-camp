@@ -72,14 +72,14 @@
 
 **作业:**  
 1. 理解并推导反向传播算法
-2. 完成 assignment1 中的 `softmax.ipynb`
+2. 完成 assignment1 中的 `softmax.ipynb` 和 `two_layer_net.ipynb`
 
 ### Week4
 1. 学习 [pytorch基础](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html) 
 2. 了解 kaggle 比赛[房价预测](https://www.kaggle.com/c/house-prices-advanced-regression-techniques), 并学习[模板代码]()
 
 **作业:**  
-1. 完成 assignment1 中 `two_layer_net.ipynb` 和 `features.ipynb`
+1. 完成 assignment1 中  和 `features.ipynb`
 2. 修改房价预测的代码，并提交kaggle查看得分
 
 
@@ -91,7 +91,7 @@
 - 学习[卷积神经网络笔记](https://zhuanlan.zhihu.com/p/22038289?refer=intelligentunit)
 
 **作业:**  
-1. 完成 assignment2 中 `FullyConnectedNets.ipynb`
+1. 完成 assignment2 中 `FullyConnectedNets.ipynb` 和 `BatchNormalization.ipynb`
 2. 思考一下卷积神经网络对比传统神经网络的优势在哪里？为什么更适合处理图像问题
 
 ### Week6
@@ -102,7 +102,7 @@
 - 学习[神经网络笔记1](https://zhuanlan.zhihu.com/p/21462488?refer=intelligentunit)和[神经网络笔记2](https://zhuanlan.zhihu.com/p/21560667?refer=intelligentunit)
 
 **作业:**  
-1. 完成 assignment2 中 `BatchNormalization.ipynb` 和 `Dropout.ipynb`
+1. 完成 assignment2 中 `Dropout.ipynb` 和 `ConvolutionNetworks.ipynb`
 2. 深入理解 batchnorm 为什么有用，了解深度学习中的其他 normalize 方法，可以通过知乎或者论文，写一个总结上传
 
 
@@ -114,7 +114,7 @@
 - 学习[神经网络笔记3](https://zhuanlan.zhihu.com/p/21741716?refer=intelligentunit)
 
 **作业:**  
-1. 完成 assignment2 中 `ConvolutionNetworks.ipynb` 和 PyTorch CIFAR10 `PyTorch.ipynb`
+1. 完成 assignment2 中 PyTorch CIFAR10 `PyTorch.ipynb`
 2. 学习深度学习中各种优化算法的[总结](https://zhuanlan.zhihu.com/p/22252270)
 3. 总结训练训练神经网络中的一些 tricks
 
@@ -130,7 +130,7 @@
 - 观看视频 p20，了解目前计算机视觉 state of the art 的网络结构
 
 **作业:**  
-1. 根据前面学的知识，完成kaggle上面[种子分类](https://www.kaggle.com/c/plant-seedlings-classification)的比赛，并提交成绩
+1. 根据前面学的知识，完成 ai challenger[农作物灾害监测](https://challenger.ai/competition/pdr2018?type=myteam)的比赛，并提交成绩
 
 
 ### Week9
@@ -151,8 +151,8 @@
 - 阅读 [SSD](https://arxiv.org/abs/1512.02325) 和 [Faster RCNN](https://arxiv.org/abs/1506.01497) 的论文
 
 **作业:**  
-1. 学习 SSD 的模板代码，自己训练一个检测模型
-2. 学习 FCN 的模板代码，自己训练一个分割模型
+1. 学习 SSD 的模板代码，跑 voc 数据集
+2. 学习 FCN 的模板代码，跑 voc 数据集
 
 ### Week11
 1. 生成对抗网络  
