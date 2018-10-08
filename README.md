@@ -93,6 +93,8 @@
 **作业:**  
 1. 完成 assignment2 中 `FullyConnectedNets.ipynb` 和 `BatchNormalization.ipynb`
 2. 思考一下卷积神经网络对比传统神经网络的优势在哪里？为什么更适合处理图像问题
+3. 了解和学习深度学习中的[normalization方法](https://zhuanlan.zhihu.com/p/33173246)
+
 
 ### Week6
 1. 如何更好的训练网络(上)  
@@ -103,7 +105,7 @@
 
 **作业:**  
 1. 完成 assignment2 中 `Dropout.ipynb` 和 `ConvolutionNetworks.ipynb`
-2. 深入理解 batchnorm 为什么有用，了解深度学习中的其他 normalize 方法，可以通过知乎或者论文，写一个总结上传
+2. 了解和学习 `fast conv` 和 `fast pooling` 是如何实现的
 
 
 ### Week7
@@ -116,7 +118,7 @@
 **作业:**  
 1. 完成 assignment2 中 PyTorch CIFAR10 `PyTorch.ipynb`
 2. 学习深度学习中各种优化算法的[总结](https://zhuanlan.zhihu.com/p/22252270)
-3. 总结训练训练神经网络中的一些 tricks
+3. 打kaggle比赛 [cifar10](https://www.kaggle.com/c/cifar-10)
 
 ### Week8
 1. 深度学习框架介绍   
@@ -131,7 +133,6 @@
 
 **作业:**  
 1. 根据前面学的知识，完成 ai challenger[农作物灾害监测](https://challenger.ai/competition/pdr2018?type=myteam)的比赛，并提交成绩
-
 
 ### Week9
 1. 循环神经网络与语言模型  
