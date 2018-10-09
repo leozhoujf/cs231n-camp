@@ -7,7 +7,7 @@
 4. [课程视频](https://www.bilibili.com/video/av17204303/)  
 5. [环境配置](https://github.com/sharedeeply/DeepLearning-StartKit)  
 6. [作业链接](https://github.com/sharedeeply/cs231n-camp/tree/master/assignment/assignment1)  
-7. [作业参考](https://github.com/sharedeeply/cs231n-camp/tree/master/solution)  
+7. [作业参考](https://github.com/sharedeeply/cs231n-assignment-solution)  
 8. [AWS 云服务器配置](https://github.com/L1aoXingyu/code-of-learn-deep-learning-with-pytorch/blob/master/aws.md)   
 **注: 云服务器并不是强制要求的，而且国外的服务器会比较卡，考虑到阿里云等国内的服务器比较贵，所以推荐大家使用本地的电脑**
 
@@ -118,7 +118,7 @@
 **作业:**  
 1. 完成 assignment2 中 PyTorch CIFAR10 `PyTorch.ipynb`
 2. 学习深度学习中各种优化算法的[总结](https://zhuanlan.zhihu.com/p/22252270)
-3. 打kaggle比赛 [cifar10](https://www.kaggle.com/c/cifar-10)
+3. 打kaggle比赛 [cifar10](https://www.kaggle.com/c/cifar-10), [模板代码]()
 
 ### Week8
 1. 深度学习框架介绍   
@@ -132,7 +132,8 @@
 - 观看视频 p20，了解目前计算机视觉 state of the art 的网络结构
 
 **作业:**  
-1. 根据前面学的知识，完成 ai challenger[农作物灾害监测](https://challenger.ai/competition/pdr2018?type=myteam)的比赛，并提交成绩
+1. 根据前面学的知识，完成 ai challenger[农作物灾害监测](https://challenger.ai/competition/pdr2018?type=myteam)的比赛，并提交成绩，[模板代码]()
+
 
 ### Week9
 1. 循环神经网络与语言模型  
