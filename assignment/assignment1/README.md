@@ -5,6 +5,7 @@
 在该目录下
 
 ```bash
+sudo apt-get install wget;
 cd cs231n/datasets/;
 bash get_datasets.sh
 ```

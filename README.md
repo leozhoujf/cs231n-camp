@@ -104,9 +104,8 @@
 - 学习[神经网络笔记1](https://zhuanlan.zhihu.com/p/21462488?refer=intelligentunit)和[神经网络笔记2](https://zhuanlan.zhihu.com/p/21560667?refer=intelligentunit)
 
 **作业:**  
-1. 完成 assignment2 中 `Dropout.ipynb` 和 `ConvolutionNetworks.ipynb`
-2. 了解和学习 `fast conv` 和 `fast pooling` 是如何实现的
-
+1. 完成 assignment2 中 `Dropout.ipynb`
+2. 打kaggle比赛 [cifar10](https://www.kaggle.com/c/cifar-10), [模板代码](https://github.com/L1aoXingyu/kaggle-cifar10)
 
 ### Week7
 1. 如何更好的训练网络(下)  
@@ -116,9 +115,8 @@
 - 学习[神经网络笔记3](https://zhuanlan.zhihu.com/p/21741716?refer=intelligentunit)
 
 **作业:**  
-1. 完成 assignment2 中 PyTorch CIFAR10 `PyTorch.ipynb`
+1. 完成 assignment2 中 `ConvolutionNetworks.ipynb` 和 `PyTorch.ipynb`
 2. 学习深度学习中各种优化算法的[总结](https://zhuanlan.zhihu.com/p/22252270)
-3. 打kaggle比赛 [cifar10](https://www.kaggle.com/c/cifar-10), [模板代码]()
 
 ### Week8
 1. 深度学习框架介绍   
@@ -133,7 +131,6 @@
 
 **作业:**  
 1. 根据前面学的知识，完成 ai challenger[农作物灾害监测](https://challenger.ai/competition/pdr2018?type=myteam)的比赛，并提交成绩，[模板代码]()
-
 
 ### Week9
 1. 循环神经网络与语言模型  
