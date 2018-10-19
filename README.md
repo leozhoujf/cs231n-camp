@@ -130,7 +130,7 @@
 - 观看视频 p20，了解目前计算机视觉 state of the art 的网络结构
 
 **作业:**  
-1. 根据前面学的知识，完成 ai challenger[农作物灾害监测](https://challenger.ai/competition/pdr2018?type=myteam)的比赛，并提交成绩，[模板代码]()
+1. 根据前面学的知识，完成 kaggle 比赛[种子类型识别](https://www.kaggle.com/c/plant-seedlings-classification/submissions?sortBy=date&group=all&page=1)的比赛，并提交成绩，[模板代码](https://github.com/L1aoXingyu/kaggle-plant-seeding)
 
 ### Week9
 1. 循环神经网络与语言模型  
