@@ -106,6 +106,7 @@
 **作业:**  
 1. 完成 assignment2 中 `Dropout.ipynb`
 2. 打kaggle比赛 [cifar10](https://www.kaggle.com/c/cifar-10), [模板代码](https://github.com/L1aoXingyu/kaggle-cifar10)
+3. (可选) 完成 [facial keypoint 小项目](https://github.com/udacity/P1_Facial_Keypoints)，[参考代码](https://github.com/L1aoXingyu/P1_Facial_Keypoints)
 
 ### Week7
 1. 如何更好的训练网络(下)  
@@ -141,6 +142,7 @@
 **作业:**  
 1. 完成 assignment3 中的 `RNN_Captioning.ipynb` 和 `LSTM_Captioning.ipynb` 
 2. 根据[blog](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)更进一步了解RNN，写出 LSTM 和 GRU 的公式
+3. (可选) 在 coco 数据集上完成 [image caption 小项目](https://github.com/udacity/CVND---Image-Captioning-Project)，[参考代码](https://github.com/L1aoXingyu/image-caption-project)
 
 ### Week10
 1. 检测与分割  
