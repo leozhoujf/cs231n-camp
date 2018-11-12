@@ -12,7 +12,7 @@
 **注: 云服务器并不是强制要求的，而且国外的服务器会比较卡，考虑到阿里云等国内的服务器比较贵，所以推荐大家使用本地的电脑**
 
 
-#### 🔥🔥一些重要的资源：
+#### 一些重要的资源：
 
 1. [廖雪峰python3教程](https://www.liaoxuefeng.com/article/001432619295115c918a094d8954bd493037b03d27bf9a9000)
 2. [github教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
@@ -33,7 +33,40 @@
 
 [论算法工程师首先是个工程师之深度学习在排序应用踩坑总结](https://zhuanlan.zhihu.com/p/44315278)
 
-## 学习安排
+## 知识工具
+
+为了让大家逐渐适应英文阅读，复习材料我们有中英两个版本，**但是推荐大家读英文**
+
+### 数学工具
+#### cs224n资料：
+
+- [线性代数](http://web.stanford.edu/class/cs224n/readings/cs229-linalg.pdf)  
+- [概率论](http://web.stanford.edu/class/cs224n/readings/cs229-prob.pdf)  
+- [凸函数优化](http://web.stanford.edu/class/cs224n/readings/cs229-cvxopt.pdf)  
+- [随机梯度下降算法](http://cs231n.github.io/optimization-1/)  
+
+#### 中文资料：    
+- [机器学习中的数学基本知识](https://www.cnblogs.com/steven-yang/p/6348112.html)  
+- [统计学习方法](http://vdisk.weibo.com/s/vfFpMc1YgPOr)  
+
+**大学数学课本（从故纸堆里翻出来^_^）**  
+
+### 编程工具 
+- [Python复习](http://web.stanford.edu/class/cs224n/lectures/python-review.pdf)  
+- [PyTorch教程](https://www.udacity.com/course/deep-learning-pytorch--ud188)  
+
+#### 作业提交指南
+训练营的作业自检系统已经正式上线啦！只需将作业发送到训练营公共邮箱即可，知识星球以打卡为主，不用提交作业。以下为注意事项:  
+<0> 训练营代码公共邮箱：cs231n@163.com  
+<1> 查询自己成绩  
+[CV一期训练营](https://shimo.im/sheet/O1GxWoA41j4kW3Sg/787b4/)  
+[CV二期训练营](https://shimo.im/sheet/yPhRjSQ4284NyeZo/c46b5/)   
+[CV三期训练营](https://shimo.im/sheet/jijhhvgGEJM5DkTk/08d81/)    
+<2> 先将完成的作业改名为“训练营期数-学号-作业编号”，例如："一期-CV0001-assignment1"，然后压缩成 zip 文件，zip 文件名也为"训练营期数-学号-作业编号.zip"，例如: "一期-CV0001-assignment1.zip"，务必确保学号填写正确  
+<3> 在提交作业之前需要删掉下载的数据，上传的 zip 文件大小不要超过 20M  
+<4> 注意不要改变作业中的《类名》和 《函数名》不然会检测失败！！ 
+
+## 教程
 ### Week 1
 1. 计算机视觉综述  
 **slides:** [lecture01](http://cs231n.stanford.edu/slides/2018/cs231n_2018_lecture01.pdf)
