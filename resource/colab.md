@@ -43,6 +43,7 @@ Colaboratory 支持**在线安装包以及linux命令等操作**。
 
 <div align=center>
 <img src='https://ws1.sinaimg.cn/large/006tNbRwly1fx6rgb9p59j30xa03a748.jpg' width='500'>
+</div>
 
 ## 2.colab使用
 

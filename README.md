@@ -59,7 +59,7 @@
 #### 作业提交指南
 **注意: 我们提供了免费的云环境配置[文字教程](https://github.com/sharedeeply/cs231n-camp/tree/master/resource/colab.md)和视频教程，如果大家不想自己配置本地环境，可以使用colab云平台!!!**
 
-**作业提交的具体操作流程:** [CV作业提交详解](https://github.com/sharedeeply/cs231n-camp/tree/master/resource/assignment_submission.md)
+**作业提交的具体操作流程:** [CV作业提交详解](https://github.com/sharedeeply/cs231n-camp/blob/master/resource/assignment_submission.md)
 
 训练营的作业自检系统已经正式上线啦！只需将作业发送到训练营公共邮箱即可，知识星球以打卡为主，不用提交作业。以下为注意事项:  
 <0> 训练营代码公共邮箱：cs231n@163.com  
