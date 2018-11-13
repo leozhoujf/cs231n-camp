@@ -57,6 +57,9 @@
 - [PyTorch教程](https://www.udacity.com/course/deep-learning-pytorch--ud188)  
 
 #### 作业提交指南
+
+**具体操作流程：** [CV作业提交详解](./assigment_subimt/)
+
 训练营的作业自检系统已经正式上线啦！只需将作业发送到训练营公共邮箱即可，知识星球以打卡为主，不用提交作业。以下为注意事项:  
 <0> 训练营代码公共邮箱：cs231n@163.com  
 
