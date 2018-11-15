@@ -71,7 +71,7 @@
 - 1部分安排在周一到周二
 - 2部分安排在周四到周五
 - 3部分安排在周日
-- 4部分作业是本周任何有空的时间自行完成
+- 4部分作业是任何有空的时间自行完成，可以落后于学习进度
 - 周三和周六休息 ^_^
 
 ### Week 1
@@ -82,7 +82,9 @@
 2. 学习数据驱动的方法, 理解 KNN 算法，初步学习线性分类器
 - slides: [lecture02](https://github.com/sharedeeply/cs231n-camp/tree/master/slides/cs231n_2018_lecture02.pdf) 
 - 观看视频 p4 p5 和 p6
-- 学习 [图像分类笔记上下](https://zhuanlan.zhihu.com/p/20894041?refer=intelligentunit) 和 [线性分类笔记上](https://zhuanlan.zhihu.com/p/20918580?refer=intelligentunit)
+- 学习 [图像分类笔记上](https://zhuanlan.zhihu.com/p/20894041?refer=intelligentunit)  
+- 学习 [图像分类笔记下](https://zhuanlan.zhihu.com/p/20900216)
+- 学习 [线性分类笔记上](https://zhuanlan.zhihu.com/p/20918580?refer=intelligentunit)
 
 3. 掌握本门课 python 编程的基本功
 - 阅读 python 和 numpy [教程](https://zhuanlan.zhihu.com/p/20878530?refer=intelligentunit)和[代码](https://github.com/sharedeeply/cs231n-camp/blob/master/tutorial/python_numpy_tutorial.ipynb)
@@ -245,7 +247,7 @@
 - slides: [lecture11](https://github.com/sharedeeply/cs231n-camp/tree/master/slides/cs231n_2018_lecture11.pdf)
 - 观看视频 p25 和 p26
 
-3. FCN 和 SSD 的论文学习
+3. 了解目标检测中的常见算法
 - 学习目标检测的[笔记](https://blog.csdn.net/v_JULY_v/article/details/80170182#commentBox)
 
 4. 作业
