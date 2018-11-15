@@ -75,7 +75,7 @@
 - 周三和周六休息 ^_^
 
 ### Week 1
-1. 了解计算机视觉综述，历史背景和课程大纲  
+1. 了解计算机视觉综述，历史背景和课程大纲
 - slides: [lecture01](https://github.com/sharedeeply/cs231n-camp/tree/master/slides/cs231n_2018_lecture01.pdf)
 - 观看视频 p1, p2 和 p3 
 
@@ -96,11 +96,12 @@
 1. 深入理解线性分类器的原理 
 - slides: [lecture03](https://github.com/sharedeeply/cs231n-camp/tree/master/slides/cs231n_2018_lecture03.pdf)
 - 观看视频 p7
-- 学习[线性分类笔记中下](https://zhuanlan.zhihu.com/p/20945670?refer=intelligentunit)
+- 学习[线性分类笔记中](https://zhuanlan.zhihu.com/p/20945670?refer=intelligentunit)
+- 学习[线性分类笔记下](https://zhuanlan.zhihu.com/p/21102293)
 
 2. 学习损失函数以及梯度下降的相关知识
 - slides: [lecture03](https://github.com/sharedeeply/cs231n-camp/tree/master/slides/cs231n_2018_lecture03.pdf)
-- 观看视频 p8
+- 观看视频 p8
 - 学习[最优化笔记](https://zhuanlan.zhihu.com/p/21360434?refer=intelligentunit)
 
 3. 掌握矩阵求导的基本方法
