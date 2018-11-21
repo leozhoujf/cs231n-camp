@@ -51,7 +51,7 @@
 
 **作业提交的具体操作流程:** [CV作业提交详解](https://github.com/sharedeeply/cs231n-camp/blob/master/resource/assignment_submission.md)
 
-训练营的作业自检系统已经正式上线啦！只需将作业发送到训练营公共邮箱即可，知识星球以打卡为主，不用提交作业。以下为注意事项:  
+训练营的作业自检系统已经正式上线啦！只需将作业发送到训练营公共邮箱即可，知识圈以打卡为主，不用提交作业。以下为注意事项:  
 <0> 训练营代码公共邮箱：cs231n@163.com  
 
 <1> 查询自己成绩  
@@ -110,7 +110,7 @@
 - 根据[资料](https://zhuanlan.zhihu.com/p/25063314)，学习矩阵求导的基本技巧，看多少内容取决于个人需要
 
 4. 作业
-- 简述 KNN 和线性分类器的优劣, 打卡上传知识星球
+- 简述 KNN 和线性分类器的优劣, 打卡上传知知识圈
 - 完成assignment1 中 `svm.ipynb`
 
 
@@ -145,7 +145,7 @@
 
 4. 作业
 - 完成 assignment1 中的 `features.ipynb`
-- 修改房价预测的代码，在知识星球上提交 kaggle 的成绩
+- 修改房价预测的代码，在知识圈上提交 kaggle 的成绩
 
 
 ### Week5
@@ -163,7 +163,7 @@
 - [参考代码](https://github.com/L1aoXingyu/P1_Facial_Keypoints)
 
 4. 作业
-- 思考一下卷积神经网络对比传统神经网络的优势在哪里？为什么更适合处理图像问题，知识星球打卡上传
+- 思考一下卷积神经网络对比传统神经网络的优势在哪里？为什么更适合处理图像问题，知识圈打卡上传
 - 完成 assignment2 中 `FullyConnectedNets.ipynb`
 
 
@@ -201,7 +201,7 @@
 
 4. 作业
 - 完成 assignment2 中 `ConvolutionNetworks.ipynb`
-- 修改 cifar10 的网络结构，在知识星球上提交 kaggle 成绩
+- 修改 cifar10 的网络结构，在知识圈上提交 kaggle 成绩
 
 ### Week8
 1. 了解主流深度学习框架之间的区别与联系   
@@ -217,7 +217,7 @@
 
 4. 作业  
 - 完成 assignment2 中的 `PyTorch.ipynb` 
-- 学习[模板代码](https://github.com/L1aoXingyu/kaggle-plant-seeding), 尝试更大的网络结构完成 kaggle 比赛[种子类型识别](https://www.kaggle.com/c/plant-seedlings-classification)的比赛，在知识星球上提交 kaggle 成绩
+- 学习[模板代码](https://github.com/L1aoXingyu/kaggle-plant-seeding), 尝试更大的网络结构完成 kaggle 比赛[种子类型识别](https://www.kaggle.com/c/plant-seedlings-classification)的比赛，在知识圈上提交 kaggle 成绩
 
 
 ### Week9
