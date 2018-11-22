@@ -472,99 +472,42 @@ X_train = np.hstack([X_train, np.ones((X_train.shape[0], 1))])
 X是矩阵，W是权重(Wi表示每一类别权重)
 
 X表示如下：
-$$
-\left\{
- \begin{matrix}
-   ... & x_{1} & ... \\
-   ... & x_{2} & ... \\
-       &  . &\\
-       &  . &\\
-   ... & x_{N} & ...
-  \end{matrix}
-  \right\} \tag{1}
-$$
+
+![](https://latex.codecogs.com/gif.latex?%5Cleft%5C%7B%20%5Cbegin%7Bmatrix%7D%20...%20%26%20x_%7B1%7D%20%26%20...%20%5C%5C%20...%20%26%20x_%7B2%7D%20%26%20...%20%5C%5C%20%26%20.%20%26%5C%5C%20%26%20.%20%26%5C%5C%20...%20%26%20x_%7BN%7D%20%26%20...%20%5Cend%7Bmatrix%7D%20%5Cright%5C%7D%20%5Ctag%7B1%7D)
+
 W表示如下：
-$$
-\left\{
- \begin{matrix}
-   . & . & ... & .\\
-   .& . & ... & . \\
-   w_{1} & w_{2} & ... & w_{C} \\
-   . & . & ... & .\\
-   .& . & ... & . \\
-  \end{matrix}
-  \right\} \tag{2}
-$$
+
+![](https://latex.codecogs.com/gif.latex?%5Cleft%5C%7B%20%5Cbegin%7Bmatrix%7D%20.%20%26%20.%20%26%20...%20%26%20.%5C%5C%20.%26%20.%20%26%20...%20%26%20.%20%5C%5C%20w_%7B1%7D%20%26%20w_%7B2%7D%20%26%20...%20%26%20w_%7BC%7D%20%5C%5C%20.%20%26%20.%20%26%20...%20%26%20.%5C%5C%20.%26%20.%20%26%20...%20%26%20.%20%5C%5C%20%5Cend%7Bmatrix%7D%20%5Cright%5C%7D%20%5Ctag%7B2%7D)
+
 S表示如下：
-$$
-\left\{
- \begin{matrix}
-   s_{11} & s_{12} & ... & s_{1C} \\
-   s_{21} & s_{22} & ... & s_{2C}\\
-   .  &  . & ... & .\\
-   .  &  . & ... & .\\
-   .  &  . & ... & .\\
-    s_{N1} & s_{N2} & ... & s_{NC}
-  \end{matrix}
-  \right\} \tag{3}
-$$
+
+![](https://latex.codecogs.com/gif.latex?%5Cleft%5C%7B%20%5Cbegin%7Bmatrix%7D%20s_%7B11%7D%20%26%20s_%7B12%7D%20%26%20...%20%26%20s_%7B1C%7D%20%5C%5C%20s_%7B21%7D%20%26%20s_%7B22%7D%20%26%20...%20%26%20s_%7B2C%7D%5C%5C%20.%20%26%20.%20%26%20...%20%26%20.%5C%5C%20.%20%26%20.%20%26%20...%20%26%20.%5C%5C%20.%20%26%20.%20%26%20...%20%26%20.%5C%5C%20s_%7BN1%7D%20%26%20s_%7BN2%7D%20%26%20...%20%26%20s_%7BNC%7D%20%5Cend%7Bmatrix%7D%20%5Cright%5C%7D%20%5Ctag%7B3%7D)
+
 S中每一行对应
-$$
-L_1\\
-L_2\\
-.\\
-.\\
-.\\
-L_N
-\tag{4}
-$$
+
+![](https://latex.codecogs.com/gif.latex?L_1%5C%5C%20L_2%5C%5C%20.%5C%5C%20.%5C%5C%20.%5C%5C%20L_N)
 
 
 求梯度过程：
-$$
-\frac {\partial loss} {\partial w}=\frac{1}{N} \sum_{i=1}^{N} \frac {\partial L_i} {\partial W}
-\tag{5}
-$$
 
-$$
-L_i=\sum_{j\neq{y_i}}^{C}={max(0,w_jx_i-w_{y_i}x_i+1)} ={\sum_{j\neq{y_i}}^{C}L_{ij}}
-\tag{6}
-$$
+![](https://latex.codecogs.com/gif.latex?%5Cfrac%20%7B%5Cpartial%20loss%7D%20%7B%5Cpartial%20w%7D%3D%5Cfrac%7B1%7D%7BN%7D%20%5Csum_%7Bi%3D1%7D%5E%7BN%7D%20%5Cfrac%20%7B%5Cpartial%20L_i%7D%20%7B%5Cpartial%20W%7D)
 
-$$
-\frac {\partial L_{ij}} {\partial w}= \left\{
- \begin{matrix}
-   . & . & ... & .\\
-   .& . & ... & . \\
-   \frac {\partial L_{ij}} {\partial w_1} & \frac {\partial L_{ij}} {\partial w_2} & ... & \frac {\partial L_{ij}} {\partial w_C} \\
-   . & . & ... & .\\
-   .& . & ... & . \\
-  \end{matrix}
-  \right\}
-\tag{7}
-$$
+![](https://latex.codecogs.com/gif.latex?L_i%3D%5Csum_%7Bj%5Cneq%7By_i%7D%7D%5E%7BC%7D%3D%7Bmax%280%2Cw_jx_i-w_%7By_i%7Dx_i+1%29%7D%20%3D%7B%5Csum_%7Bj%5Cneq%7By_i%7D%7D%5E%7BC%7DL_%7Bij%7D%7D%20%5Ctag%7B6%7D)
 
-$$
-\frac {\partial L_{ij}} {\partial w_k}(score<0)=0
-\tag{8}
-$$
+![](https://latex.codecogs.com/gif.latex?%5Cfrac%20%7B%5Cpartial%20L_%7Bij%7D%7D%20%7B%5Cpartial%20w%7D%3D%20%5Cleft%5C%7B%20%5Cbegin%7Bmatrix%7D%20.%20%26%20.%20%26%20...%20%26%20.%5C%5C%20.%26%20.%20%26%20...%20%26%20.%20%5C%5C%20%5Cfrac%20%7B%5Cpartial%20L_%7Bij%7D%7D%20%7B%5Cpartial%20w_1%7D%20%26%20%5Cfrac%20%7B%5Cpartial%20L_%7Bij%7D%7D%20%7B%5Cpartial%20w_2%7D%20%26%20...%20%26%20%5Cfrac%20%7B%5Cpartial%20L_%7Bij%7D%7D%20%7B%5Cpartial%20w_C%7D%20%5C%5C%20.%20%26%20.%20%26%20...%20%26%20.%5C%5C%20.%26%20.%20%26%20...%20%26%20.%20%5C%5C%20%5Cend%7Bmatrix%7D%20%5Cright%5C%7D)
 
-$$
-\frac {\partial L_{ij}} {\partial w_{j}}(score>0)=x_i
-\tag{9}
-$$
+![](https://latex.codecogs.com/gif.latex?%5Cfrac%20%7B%5Cpartial%20L_%7Bij%7D%7D%20%7B%5Cpartial%20w_k%7D%28score%3C0%29%3D0)
 
-$$
-\frac {\partial L_{ij}} {\partial w_{y_i}}(score>0)=-x_i
-\tag{10}
-$$
+![](https://latex.codecogs.com/gif.latex?%5Cfrac%20%7B%5Cpartial%20L_%7Bij%7D%7D%20%7B%5Cpartial%20w_%7Bj%7D%7D%28score%3E0%29%3Dx_i)
+
+![](https://latex.codecogs.com/gif.latex?%5Cfrac%20%7B%5Cpartial%20L_%7Bij%7D%7D%20%7B%5Cpartial%20w_%7By_i%7D%7D%28score%3E0%29%3D-x_i)
 
 
 
 （6）式中
-$$
-w_{j}x_i
-$$
+
+![](https://latex.codecogs.com/gif.latex?w_%7Bj%7Dx_i)
+
 表示第j个类别的得分！
 
 Li表示(3)式中的每一行loss，Li的梯度写成如7所示的列向量，将每一行的loss分成每一个元素的loss，即公式(7)。

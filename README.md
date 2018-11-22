@@ -38,7 +38,7 @@
 
 ### 作业详解
 
-- [**assignment1**](https://github.com/sharedeeply/cs231n-camp/tree/master/resource/assignment/)
+- [**assignment1**](https://github.com/sharedeeply/cs231n-camp/tree/master/resource/assignment/assignment1)
 
 
 ## 前言
@@ -53,7 +53,7 @@
 ### 作业提交指南
 **注意: 我们提供了免费的云环境配置文字教程和视频教程，如果大家不想自己配置本地环境，可以使用colab云平台!!!**
 
-**Colab使用系列：**https://github.com/sharedeeply/cs231n-camp/tree/master/resource/colab
+**Colab使用系列**：https://github.com/sharedeeply/cs231n-camp/tree/master/resource/colab
 
 **作业提交的具体操作流程:** [CV作业提交详解](https://github.com/sharedeeply/cs231n-camp/blob/master/resource/assignment_submission.md)
 
