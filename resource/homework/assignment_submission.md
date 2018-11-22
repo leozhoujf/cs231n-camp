@@ -8,33 +8,33 @@
 
 - 作业位置如下图：
 
-![homework](./img/homework.png)
+![homework](../img/homework.png)
 
 - 进入对应作业文件夹
 
 这里以**assignment1**为例：
 
-![assig](./img/assig.png)
+![assig](../img/assig.png)
 
 点击相应任务，查看作业：
 
-![assign1](./img/assign1.png)
+![assign1](../img/assign1.png)
 
 阅读任务readme，按照要求完成作业
 
-![阅读](./img/阅读.png)
+![阅读](../img/阅读.png)
 
 ## 2.开始任务
 
 按照readme下载输入相应命令，下载数据集！
 
-![start](./img/start.png)
+![start](../img/start.png)
 
 下载完成后，它会自动解压包，并生成数据集文件夹！
 
-![batch](./img/batch.png)
+![batch](../img/batch.png)
 
-![cifar](./img/cifar.png)
+![cifar](../img/cifar.png)
 
 上面的cifar....便是数据集！
 
@@ -46,14 +46,14 @@
 
 <font color="red">上述数据下载后在datasets文件夹下，完成作业后，请删除掉datasets整个文件夹！</font>并打包任务文件夹
 
-![data](./img/data.png)
+![data](../img/data.png)
 
 【**找到自己对应营期的CV学号**】
 [CV一期训练营](https://shimo.im/sheet/O1GxWoA41j4kW3Sg/787b4/)
 [CV二期训练营](https://shimo.im/sheet/yPhRjSQ4284NyeZo/c46b5/)
 [CV三期训练营](https://shimo.im/sheet/jijhhvgGEJM5DkTk/08d81/)
 
-![number](./img/number.png)
+![number](../img/number.png)
 
 【**作业打包**】
 
@@ -61,19 +61,19 @@
 
 **找到任务文件夹**
 
-![asssss](./img/asssss.png)
+![asssss](../img/asssss.png)
 
 重命名为**一期-CV0001-assignment1**
 
-![name](./img/name.png)
+![name](../img/name.png)
 
 **也按照上述命名要求打包！**
 
-![zip](./img/zip.png)
+![zip](../img/zip.png)
 
 **最终结果**
 
-![](./img/zip1.png)
+![](../img/zip1.png)
 
 注意点：<font color="red">一定要命名正确，并且为zip文件，检查自己的学号是否正确！！！</font>
 

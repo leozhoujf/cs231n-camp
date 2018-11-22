@@ -36,6 +36,10 @@
 - [官方pytorch教程](https://pytorch.org/tutorials/)和一个比较好的[教程](https://github.com/yunjey/pytorch-tutorial)
 - [tensorflow教程](https://github.com/aymericdamien/TensorFlow-Examples)
 
+### 作业详解
+
+- [**assignment1**](https://github.com/sharedeeply/cs231n-camp/tree/master/resource/assignment/)
+
 
 ## 前言
 对于算法工程师，不同的人的认知角度都是不同的，我们通过下面三个知乎的高票回答帮助大家了解算法工程师到底需要做什么样的事，工业界需要什么样的能力
@@ -47,7 +51,9 @@
 [论算法工程师首先是个工程师之深度学习在排序应用踩坑总结](https://zhuanlan.zhihu.com/p/44315278)
 
 ### 作业提交指南
-**注意: 我们提供了免费的云环境配置[文字教程](https://github.com/sharedeeply/cs231n-camp/tree/master/resource/colab.md)和视频教程，如果大家不想自己配置本地环境，可以使用colab云平台!!!**
+**注意: 我们提供了免费的云环境配置文字教程和视频教程，如果大家不想自己配置本地环境，可以使用colab云平台!!!**
+
+**Colab使用系列：**https://github.com/sharedeeply/cs231n-camp/tree/master/resource/colab
 
 **作业提交的具体操作流程:** [CV作业提交详解](https://github.com/sharedeeply/cs231n-camp/blob/master/resource/assignment_submission.md)
 

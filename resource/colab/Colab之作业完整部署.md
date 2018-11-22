@@ -10,7 +10,7 @@
 
 首先我们到官网下载任务：http://cs231n.github.io/assignments2018/assignment1/
 
-![assi](./img/assi.png)
+![assi](../img/assi.png)
 
 
 
@@ -18,13 +18,13 @@
 
 上传后可以在你的google driver里面看到相应的额文件夹！
 
-![upl](./img/upl.png)
+![upl](../img/upl.png)
 
 ## 3.准备工作
 
 我们进入任务文件夹，找到knn.ipynb完成我们的第一个作业，首先用colab打开！
 
-![open](./img/open.png)
+![open](../img/open.png)
 
 紧接着，在打开的knn.ipynb文件开头加上，授权验证代码及创建drive目录代码，以及下载数据集代码等！
 
@@ -77,11 +77,11 @@ cd /content/drive/drive/colab_learn/assignment1
 
 如下图所示：
 
-![assignme](./img/assignme.png)
+![assignme](../img/assignme.png)
 
 打开google driver，进入到任务里面cs231n->datasets下面会发现多了个数据集，这个就是刚才下载的，说明正确，当然你也可以本地下载好，直接上传，这一步直接跳过即可！
 
-![idata](./img/idata.png)
+![idata](../img/idata.png)
 
 ## 4.开始实战
 
@@ -99,7 +99,7 @@ cd /content/drive/drive/colab_learn/assignment1/
 
 则说明是路径问题，此时你需要运行!ls查看当前目录是否在assignment1目录，如果不在，肯定会报错的，所以你进入到这个目录里面才可以，也就是上面cd命令一定要检查是否正确！
 
-![error](./img/error.png)
+![error](../img/error.png)
 
 如果正常的话，说明knn数据集下载正确，并且路径正确，那么我们只需要完成作业即可！
 
@@ -109,17 +109,17 @@ cd /content/drive/drive/colab_learn/assignment1/
 
 右键这个文件，使用第二个打开，当然你也可以使用其他的！
 
-![zaixianbianji](./img/zaixianbianji.png)
+![zaixianbianji](../img/zaixianbianji.png)
 
 然后会看到如下界面：
 
 完善你的代码，快捷键ctrl+s保存或者左上角保存即可！
 
-![shift](./img/shift.png)
+![shift](../img/shift.png)
 
 然后我们进入我们的knn.ipynb文件里面，继续完善代码，最终运行结果如下：
 
-![knn](./img/knn.png)
+![knn](../img/knn.png)
 
 到这里，就说明任务knn完成了，那么怎么下载下来，发送邮件到指定邮箱呢？
 
@@ -127,7 +127,7 @@ cd /content/drive/drive/colab_learn/assignment1/
 
 上面knn.ipynb任务完成后，一定要保存，然后进入google driver里面下载assignment1即可！最后就是发邮件~~
 
-![download](./img/download.png)
+![download](../img/download.png)
 
 到这里一个完整的任务流程介绍完毕了，欢迎各位同学，尽快完成作业，发送指定邮箱！
 

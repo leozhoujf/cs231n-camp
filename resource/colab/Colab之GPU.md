@@ -4,15 +4,15 @@
 
 谷歌driver里面新建Colab文件，如下图所示：
 
-![colab](./img/colab.png)
+![colab](../img/colab.png)
 
 如何设置GPU？
 
 选择diam执行程序->更改运行时类型为GPU
 
-![check](./img/check.png)
+![check](../img/check.png)
 
-![gpu](./img/gpu.png)
+![gpu](../img/gpu.png)
 
 
 

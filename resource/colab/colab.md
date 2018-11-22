@@ -1,9 +1,6 @@
-# colab使用教程
+# colab使用
 
 
-<div align=center>
-<img src='https://ws1.sinaimg.cn/large/006tNbRwly1fx5njubivxj31kw0iltbg.jpg' width='400'>
-</div>
 
 ## 0.说在前面
 
@@ -34,16 +31,13 @@ Colaboratory 支持**在线安装包以及linux命令等操作**。
 
 打开上述googl driver官网，进去就可以看到这个页面，然后空白处点击右键就会出现创建文档与上传文档操作，只需要点击右键即可完成这个上传操作(或者其他操作)！
 
-<div align=center><img src=https://ws2.sinaimg.cn/large/006tNbRwly1fx6reiehqcj30xg0eit97.jpg width=400>
-</div>
+![upload](../img/upload.png)
 
 我们以某文件上传完为例，如何查看数据上传进度？
 
 右键上传后，左下角有显示进度百分比~~~，等到百分之百即可完成上传操作！
 
-<div align=center>
-<img src='https://ws1.sinaimg.cn/large/006tNbRwly1fx6rgb9p59j30xa03a748.jpg' width='500'>
-</div>
+![jindu](../img/jindu.png)
 
 ## 2.colab使用
 
@@ -58,8 +52,6 @@ Colaboratory 支持**在线安装包以及linux命令等操作**。
 下面的`apt-get`是相关的linux命令！
 
 其余的import为python的导包命令！
-
-将其复制到 notebook 的一个 cell 当中运行
 
 ```python
 !apt-get install -y -qq software-properties-common python-software-properties module-init-tools
@@ -81,22 +73,15 @@ vcode = getpass.getpass()
 
 运行上述代码后，会有两次授权，下面是授权过程~~
 
-<div align=center>
-<img src='https://ws4.sinaimg.cn/large/006tNbRwly1fx6rjspz92j30xa0b8aay.jpg' width='400'>
-</div>
+![auth_pre](../img/auth_pre.png)
 
 点击上述的授权url，然后进入下面授权页面：
 
-<div align=center>
-<img src='https://ws2.sinaimg.cn/large/006tNbRwly1fx6rlfzrj2j310k13q0ts.jpg' width='300'>
-</div>
+![auth_af](../img/auth_af.png)
 
 点击上述你的账户，如果没有登录谷歌账号，请注册后再登录即可，然后会进入下面授权代码，复制这一串授权代码。
 
-<div align=center>
-<img src='https://ws1.sinaimg.cn/large/006tNbRwly1fx6rkgvja3j30xa0amt91.jpg' width='400'>
-</div>
-
+![auth](../img/auth.png)
 
 粘贴到上述的授权窗口里面，回车即可，会操作两次~~
 
@@ -123,11 +108,75 @@ vcode = getpass.getpass()
 
 然后cd进入你的文件夹里面即可~
 
-<div align=center>
-<img src='https://ws4.sinaimg.cn/large/006tNbRwly1fx6rm3w2wrj30x40wkt9n.jpg' width='300'>
-</div>
-
 ### One More Thing
+
 相信通过上面这些内容你已经学会了如何使用colab，下一章我们会示例如何在colab上完成cs231n的作业
 
 to be continued ...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
