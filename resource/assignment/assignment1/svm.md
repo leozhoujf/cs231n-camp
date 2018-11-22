@@ -227,7 +227,7 @@ ds[np.arange(num_train),y]=-1*(np.sum(mask,axis=1)-1)
 
 
 
-## 3.作者的话
+## 
 
 
 

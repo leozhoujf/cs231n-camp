@@ -53,7 +53,7 @@
 ### 作业提交指南
 **注意: 我们提供了免费的云环境配置文字教程和视频教程，如果大家不想自己配置本地环境，可以使用colab云平台!!!**
 
-**Colab使用系列**：https://github.com/sharedeeply/cs231n-camp/tree/master/resource/colab
+**Colab使用系列**：[Colab基础教程](https://github.com/sharedeeply/cs231n-camp/blob/master/resource/colab/colab.md)，[Colab之GPU](https://github.com/sharedeeply/cs231n-camp/blob/master/resource/colab/Colab%E4%B9%8BGPU.md)，[Colab作业完整部署](https://github.com/sharedeeply/cs231n-camp/blob/master/resource/colab/Colab%E4%B9%8B%E4%BD%9C%E4%B8%9A%E5%AE%8C%E6%95%B4%E9%83%A8%E7%BD%B2.md)
 
 **作业提交的具体操作流程:** [CV作业提交详解](https://github.com/sharedeeply/cs231n-camp/blob/master/resource/assignment_submission.md)
 
