@@ -22,15 +22,7 @@ SVM损失函数想要SVM在正确分类上的得分始终比不正确的得分�
 
 X表示如下(1式)：
 
-![](http://latex.codecogs.com/gif.latex?\left\{
- \begin{matrix}
-   ... & x_{1} & ... \\
-   ... & x_{2} & ... \\
-       &  . &\\
-       &  . &\\
-   ... & x_{N} & ...
-  \end{matrix}
-  \right\} \tag{1})
+![](http://latex.codecogs.com/gif.latex?\left\{\begin{matrix}... & x_{1} & ... \\... &x_{2} & ... \\& . &\\&  . &\\... & x_{N} & ...\end{matrix}\right\} \tag{1})
 $$
 \left\{
  \begin{matrix}
