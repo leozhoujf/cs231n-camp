@@ -98,6 +98,7 @@
 4. 作业   
 - (热身)写一个矩阵的类，实现矩阵乘法，只能使用 python 的类(class)和列表(list)
 - 完成assignment1 中的 `knn.ipynb`
+- 作业详解：[knn.md](https://github.com/sharedeeply/cs231n-camp/blob/master/resource/assignment/assignment1/knn.md)
 
 
 ### Week2
@@ -118,6 +119,7 @@
 4. 作业
 - 简述 KNN 和线性分类器的优劣, 打卡上传知知识圈
 - 完成assignment1 中 `svm.ipynb`
+- 作业详解：[svm.md](https://github.com/sharedeeply/cs231n-camp/blob/master/resource/assignment/assignment1/svm.md)
 
 
 ### Week3
