@@ -138,7 +138,7 @@
 4. 作业
 - 完成 assignment1 中的 `softmax.ipynb`
 - 完成 assignment1 中的 `two_layer_net.ipynb`
-- 作业详解1：[softmax.md](https://github.com/sharedeeply/cs231n-camp/blob/master/resource/assignment/assignment1/softmax.md)
+- 作业详解1：[Softmax.md](https://github.com/sharedeeply/cs231n-camp/blob/master/resource/assignment/assignment1/Softmax.md)
 - 作业详解2：[two_layer_net.md](https://github.com/sharedeeply/cs231n-camp/blob/master/resource/assignment/assignment1/two_layer_net.md)
 
 ### Week4
