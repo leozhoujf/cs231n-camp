@@ -156,6 +156,7 @@
 4. 作业
 - 完成 assignment1 中的 `features.ipynb`
 - 修改房价预测的代码，在知识圈上提交 kaggle 的成绩
+- 作业详解：features.md](https://github.com/sharedeeply/cs231n-camp/blob/master/resource/assignment/assignment1/features.md)
 
 
 ### Week5
