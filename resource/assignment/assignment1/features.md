@@ -10,8 +10,6 @@
 
 ![](https://github.com/Light-City/images/blob/master/wechat.jpg?raw=true)
 
-
-
 ## 1.numpy
 
 > 取指定位置的精度
