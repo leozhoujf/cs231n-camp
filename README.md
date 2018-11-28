@@ -263,7 +263,7 @@
 
 4. 作业
 - 阅读论文 [Fully Convolutional Networks for Semantic Segmentation](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf) 和[中文笔记](https://zhuanlan.zhihu.com/p/30195134)
-- (可选) FCN 的[复现代码]()理解
+- (可选) FCN 的[复现代码](https://github.com/L1aoXingyu/fcn.pytorch)理解
 
 ### Week11
 1. 理解卷积背后的原理 
@@ -281,7 +281,7 @@
 4. 作业
 - 完成 assignment3 中的 `NetworkVisualization-PyTorch.ipynb`
 - 阅读论文 [SSD: Single Shot MultiBox Detector](https://arxiv.org/abs/1512.02325) 和一个详细的[讲解](https://docs.google.com/presentation/d/1rtfeV_VmdGdZD5ObVVpPDPIODSDxKnFSU0bsN_rgZXc/pub?start=false&loop=false&delayms=3000&slide=id.g178a005570_0_20175)
-- (可选) SSD 的[复现代码]()理解
+- (可选) SSD 的[复现代码](https://github.com/L1aoXingyu/ssd.pytorch)理解
 
 ### Week12
 1. 掌握自动编码器和生成对抗网络的基本原理
