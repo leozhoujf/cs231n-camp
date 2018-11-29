@@ -55,7 +55,7 @@
 
 **Colab使用系列**：[Colab基础教程](https://github.com/sharedeeply/cs231n-camp/blob/master/resource/colab/colab.md)，[Colab之GPU](https://github.com/sharedeeply/cs231n-camp/blob/master/resource/colab/Colab%E4%B9%8BGPU.md)，[Colab作业完整部署](https://github.com/sharedeeply/cs231n-camp/blob/master/resource/colab/Colab%E4%B9%8B%E4%BD%9C%E4%B8%9A%E5%AE%8C%E6%95%B4%E9%83%A8%E7%BD%B2.md)
 
-**作业提交的具体操作流程:** [CV作业提交详解](https://github.com/sharedeeply/cs231n-camp/blob/master/resource/assignment_submission.md)
+**作业提交的具体操作流程:** [CV作业提交详解](https://github.com/sharedeeply/cs231n-camp/blob/master/resource/homework/assignment_submission.md)
 
 训练营的作业自检系统已经正式上线啦！只需将作业发送到训练营公共邮箱即可，知识圈以打卡为主，不用提交作业。以下为注意事项:  
 <0> 训练营代码公共邮箱：cs231n@163.com  
