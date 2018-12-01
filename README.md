@@ -151,9 +151,7 @@
 - 了解比赛[房价预测](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 - 学习[模板代码](https://github.com/L1aoXingyu/kaggle-house-price)
 
-3. 学习 PyTorch 中的数据读取
-- 学习[官方教程](https://pytorch.org/tutorials/beginner/data_loading_tutorial.html)
-- 学习[中文笔记](https://l1aoxingyu.github.io/2017/10/23/PyTorch%E5%AE%9E%E7%8E%B0%E8%87%AA%E7%94%B1%E7%9A%84%E6%95%B0%E6%8D%AE%E8%AF%BB%E5%8F%96/)
+3. 学习深度学习的系统[项目模板](https://github.com/L1aoXingyu/PyTorch-Project-Template)
 
 4. 作业
 - 完成 assignment1 中的 `features.ipynb`
