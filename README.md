@@ -178,6 +178,7 @@
 4. 作业
 - 思考一下卷积神经网络对比传统神经网络的优势在哪里？为什么更适合处理图像问题，知识圈打卡上传
 - 完成 assignment2 中 `FullyConnectedNets.ipynb`
+- 作业详解：[FullyConnectedNets1.md](https://github.com/sharedeeply/cs231n-camp/blob/master/resource/assignment/assignment2/FullyConnectedNets1.md)|[FullyConnectedNets2.md](https://github.com/sharedeeply/cs231n-camp/blob/master/resource/assignment/assignment2/FullyConnectedNets2.md)
 
 
 ### Week6
