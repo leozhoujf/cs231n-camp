@@ -39,6 +39,7 @@
 ### 作业详解
 
 - [**assignment1**](https://github.com/sharedeeply/cs231n-camp/tree/master/resource/assignment/assignment1)
+- [**assignment2**](https://github.com/sharedeeply/cs231n-camp/tree/master/resource/assignment/assignment2)
 
 
 ## 前言
