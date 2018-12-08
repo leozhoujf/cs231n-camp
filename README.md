@@ -218,6 +218,7 @@
 4. 作业
 - 完成 assignment2 中 `ConvolutionNetworks.ipynb`
 - 修改 cifar10 的网络结构，在知识圈上提交 kaggle 成绩
+- 作业详解：[ConvolutionNetworks](https://github.com/sharedeeply/cs231n-camp/blob/master/resource/assignment/assignment2/ConvolutionNetworks.md)
 
 ### Week8
 1. 了解主流深度学习框架之间的区别与联系   
