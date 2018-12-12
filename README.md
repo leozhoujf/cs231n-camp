@@ -235,7 +235,7 @@
 4. 作业  
 - 完成 assignment2 中的 `PyTorch.ipynb` 
 - 学习[模板代码](https://github.com/L1aoXingyu/kaggle-plant-seeding), 尝试更大的网络结构完成 kaggle 比赛[种子类型识别](https://www.kaggle.com/c/plant-seedlings-classification)的比赛，在知识圈上提交 kaggle 成绩
-- [作业详解](https://github.com/sharedeeply/cs231n-camp/blob/master/resource/assignment/assignment2/PyTorch.md)
+- 作业详解：[Pytorch.md](https://github.com/sharedeeply/cs231n-camp/blob/master/resource/assignment/assignment2/PyTorch.md)
 
 
 ### Week9
