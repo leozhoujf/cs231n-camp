@@ -35,8 +35,8 @@
 ```
 # 授权验证
 !apt-get install -y -qq software-properties-common python-software-properties module-init-tools
-!wget https://launchpad.net/~alessandro-strada/+archive/ubuntu/google-drive-ocamlfuse-beta/+build/15331130/+files/google-drive-ocamlfuse_0.7.0-0ubuntu1_amd64.deb
-!dpkg -i google-drive-ocamlfuse_0.7.0-0ubuntu1_amd64.deb
+!wget https://launchpad.net/~alessandro-strada/+archive/ubuntu/google-drive-ocamlfuse-beta/+build/15740102/+files/google-drive-ocamlfuse_0.7.1-0ubuntu3_amd64.deb
+!dpkg -i google-drive-ocamlfuse_0.7.1-0ubuntu3_amd64.deb
 !apt-get install -f
 !apt-get -y install -qq fuse
 from google.colab import auth
