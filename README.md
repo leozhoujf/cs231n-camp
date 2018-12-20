@@ -40,6 +40,7 @@
 
 - [**assignment1**](https://github.com/sharedeeply/cs231n-camp/tree/master/resource/assignment/assignment1)
 - [**assignment2**](https://github.com/sharedeeply/cs231n-camp/tree/master/resource/assignment/assignment2)
+- [**assignment3**](https://github.com/sharedeeply/cs231n-camp/tree/master/resource/assignment/assignment3)
 
 
 ## 前言
@@ -254,6 +255,7 @@
 - 完成 assignment3 中的 `RNN_Captioning.ipynb` 
 - 完成 assignment3 中的 `LSTM_Captioning.ipynb` 
 - 完成 coco 数据集上的 [image caption 小项目](https://github.com/udacity/CVND---Image-Captioning-Project)，[参考代码](https://github.com/L1aoXingyu/image-caption-project)
+- 作业详解：[RNN_Captioning.md](https://github.com/sharedeeply/cs231n-camp/blob/master/resource/assignment/assignment3/RNN_Captioning.md)
 
 
 ### Week10
