@@ -4,7 +4,7 @@
 1. [课程主页](http://cs231n.stanford.edu/)  
 2. [英文笔记](http://cs231n.github.io/)  
 3. [中文笔记](https://zhuanlan.zhihu.com/p/21930884)  
-4. [课程视频](https://www.bilibili.com/video/av17204303/)  
+4. [课程视频](https://study.163.com/course/introduction.htm?courseId=1004697005#/courseDetail?tab=1)  
 5. [环境配置](https://github.com/sharedeeply/DeepLearning-StartKit)  
 6. [作业链接](https://github.com/sharedeeply/cs231n-camp/tree/master/assignment/assignment1)  
 7. [作业参考](https://github.com/sharedeeply/cs231n-assignment-solution)  
@@ -64,7 +64,6 @@
 [CV一期训练营](https://shimo.im/sheet/O1GxWoA41j4kW3Sg/787b4/)  
 [CV二期训练营](https://shimo.im/sheet/yPhRjSQ4284NyeZo/c46b5/)   
 [CV三期训练营](https://shimo.im/sheet/jijhhvgGEJM5DkTk/08d81/)    
-
 [CV四期训练营](https://shimo.im/sheet/7CGffwHzxKoxbL6j/)
 
 <2> 先将完成的作业改名为“训练营期数-学号-作业编号”，例如："一期-CV0001-assignment1"，然后压缩成 zip 文件，zip 文件名也为"训练营期数-学号-作业编号.zip"，例如: "一期-CV0001-assignment1.zip"，务必确保学号填写正确  
