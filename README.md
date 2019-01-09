@@ -39,6 +39,8 @@
 ### 作业详解
 
 - [**assignment1**](https://github.com/sharedeeply/cs231n-camp/tree/master/resource/assignment/assignment1)
+- [**assignment2**](https://github.com/sharedeeply/cs231n-camp/tree/master/resource/assignment/assignment2)
+- [**assignment3**](https://github.com/sharedeeply/cs231n-camp/tree/master/resource/assignment/assignment3)
 
 
 ## 前言
@@ -175,6 +177,8 @@
 4. 作业
 - 思考一下卷积神经网络对比传统神经网络的优势在哪里？为什么更适合处理图像问题，知识圈打卡上传
 - 完成 assignment2 中 `FullyConnectedNets.ipynb`
+- 作业详解：[FullyConnectedNets1.md](https://github.com/sharedeeply/cs231n-camp/blob/master/resource/assignment/assignment2/FullyConnectedNets1.md)
+- 作业详解：[FullyConnectedNets2.md](https://github.com/sharedeeply/cs231n-camp/blob/master/resource/assignment/assignment2/FullyConnectedNets2.md)
 
 
 ### Week6
@@ -194,6 +198,8 @@
 4. 作业
 - 完成 assignment2 中 `BatchNormalization.ipynb`
 - 完成 assignment2 中 `Dropout.ipynb`
+- 作业详解：[BatchNormalization.md](https://github.com/sharedeeply/cs231n-camp/blob/master/resource/assignment/assignment2/BatchNormalization.md)
+- 作业详解：[Dropout.md](https://github.com/sharedeeply/cs231n-camp/blob/master/resource/assignment/assignment2/FullyConnectedNets2.md)
 
 
 ### Week7
@@ -212,6 +218,7 @@
 4. 作业
 - 完成 assignment2 中 `ConvolutionNetworks.ipynb`
 - 修改 cifar10 的网络结构，在知识圈上提交 kaggle 成绩
+- 作业详解：[ConvolutionNetworks](https://github.com/sharedeeply/cs231n-camp/blob/master/resource/assignment/assignment2/ConvolutionNetworks.md)
 
 ### Week8
 1. 了解主流深度学习框架之间的区别与联系   
@@ -228,6 +235,7 @@
 4. 作业  
 - 完成 assignment2 中的 `PyTorch.ipynb` 
 - 学习[模板代码](https://github.com/L1aoXingyu/kaggle-plant-seeding), 尝试更大的网络结构完成 kaggle 比赛[种子类型识别](https://www.kaggle.com/c/plant-seedlings-classification)的比赛，在知识圈上提交 kaggle 成绩
+- 作业详解：[Pytorch.md](https://github.com/sharedeeply/cs231n-camp/blob/master/resource/assignment/assignment2/PyTorch.md)
 
 
 ### Week9
@@ -246,6 +254,7 @@
 - 完成 assignment3 中的 `RNN_Captioning.ipynb` 
 - 完成 assignment3 中的 `LSTM_Captioning.ipynb` 
 - 完成 coco 数据集上的 [image caption 小项目](https://github.com/udacity/CVND---Image-Captioning-Project)，[参考代码](https://github.com/L1aoXingyu/image-caption-project)
+- 作业详解：[RNN_Captioning.md](https://github.com/sharedeeply/cs231n-camp/blob/master/resource/assignment/assignment3/RNN_Captioning.md)
 
 
 ### Week10
