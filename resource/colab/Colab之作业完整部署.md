@@ -48,6 +48,20 @@ import getpass
 vcode = getpass.getpass()
 !echo {vcode} | google-drive-ocamlfuse -headless -id={creds.client_id} -secret={creds.client_secret}
 ```
+方法二 
+
+```
+# Load the Drive helper and mount
+from google.colab import drive
+
+# This will prompt for authorization.
+drive.mount('/content/drive')
+```
+输入授权码即可，然后 
+```
+cd /content/drive/My Drive/drive/assignment1
+```
+drive是你自己云盘里的第一个文件名!! 
 
 > 创建drive目录
 
