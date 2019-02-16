@@ -48,6 +48,16 @@ import getpass
 vcode = getpass.getpass()
 !echo {vcode} | google-drive-ocamlfuse -headless -id={creds.client_id} -secret={creds.client_secret}
 ```
+> 创建drive目录
+
+指定根目录！
+
+```
+# 指定Google Drive云端硬盘的根目录，名为drive
+!mkdir -p drive
+!google-drive-ocamlfuse drive
+```
+### 上面的方法实际是在虚拟机上安装谷歌云盘！如果不行可以尝试方法二
 方法二 
 
 ```
@@ -62,17 +72,6 @@ drive.mount('/content/drive')
 cd /content/drive/My Drive/drive/assignment1
 ```
 drive是你自己云盘里的第一个文件名!! 
-
-> 创建drive目录
-
-指定根目录！
-
-```
-# 指定Google Drive云端硬盘的根目录，名为drive
-!mkdir -p drive
-!google-drive-ocamlfuse drive
-```
-
 > 下载CIFAR-10数据集
 
 首先进入assignment1目录：
