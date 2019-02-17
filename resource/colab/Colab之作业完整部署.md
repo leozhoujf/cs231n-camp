@@ -48,7 +48,6 @@ import getpass
 vcode = getpass.getpass()
 !echo {vcode} | google-drive-ocamlfuse -headless -id={creds.client_id} -secret={creds.client_secret}
 ```
-
 > 创建drive目录
 
 指定根目录！
@@ -58,7 +57,21 @@ vcode = getpass.getpass()
 !mkdir -p drive
 !google-drive-ocamlfuse drive
 ```
+### 上面的方法实际是在虚拟机上安装谷歌云盘！如果不行可以尝试方法二
+方法二 
 
+```
+# Load the Drive helper and mount
+from google.colab import drive
+
+# This will prompt for authorization.
+drive.mount('/content/drive')
+```
+输入授权码即可，然后 
+```
+cd /content/drive/My Drive/drive/assignment1
+```
+drive是你自己云盘里的第一个文件名!! 
 > 下载CIFAR-10数据集
 
 首先进入assignment1目录：
