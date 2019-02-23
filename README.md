@@ -63,10 +63,14 @@
 <0> 训练营代码公共邮箱：cs231n@163.com  
 
 <1> 查询自己成绩  
-[CV一期训练营](https://shimo.im/sheet/O1GxWoA41j4kW3Sg/787b4/)  
+[CV一期训练营](https://shimo.im/sheet/O1GxWoA41j4kW3Sg/787b4/) 
+
 [CV二期训练营](https://shimo.im/sheet/yPhRjSQ4284NyeZo/c46b5/)   
+
 [CV三期训练营](https://shimo.im/sheet/95bY9p0ZVMAAFKwZ/)
+
 [CV四期训练营](https://shimo.im/sheet/fyd10ZK8tHUSm1Qm/)
+
 [CV五期训练营](https://shimo.im/sheets/2j9VkZJW2Xcr8alB/)
 
 <2> 先将完成的作业改名为“训练营期数-学号-作业编号”，例如："一期-CV0001-assignment1"，然后压缩成 zip 文件，zip 文件名也为"训练营期数-学号-作业编号.zip"，例如: "一期-CV0001-assignment1.zip"，务必确保学号填写正确  
